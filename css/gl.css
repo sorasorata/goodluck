@@ -6,13 +6,21 @@
     background-color: Violet;
 }
 
+.color2 {
+    background-color: #82eeee;
+}
+
+.color3 {
+    background-color: #eeee82;
+}
+
 body {
     font-family: 'Aldrich';font-size: 22px;
 }
 
 .carousel-control.right, .carousel-control.left {
     background-image: none;
-    color: #ff69b4;
+    color: #ffffff;
 }
 
 .carousel-indicators li {
@@ -28,9 +36,10 @@ body {
     line-height: 1.375em;
     font-weight: 400;
     font-style: ;
-    margin: 200px 0;
+    padding: 250px 0px;
+    margin: 0px 0px;
 }
 
 .item span {
     font-style: normal;
-}   
+}
