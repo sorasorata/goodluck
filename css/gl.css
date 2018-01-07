@@ -3,15 +3,13 @@
 }
 
 .color1 {
-    background-color: Violet;
+  background: linear-gradient(to right, #ee82ee, #82eeee);
 }
-
 .color2 {
-    background-color: #82eeee;
+  background: linear-gradient(to right, #82eeee, #eeee82);
 }
-
 .color3 {
-    background-color: #eeee82;
+  background: linear-gradient(to right, #eeee82, #ee82ee);
 }
 
 body {
